@@ -23,11 +23,13 @@ Because you’re tired of looking at blurry letters and pretending to be a robot
 	```bash
 	cd taza_l3asima
 	```
-3. **copy this to firefox console after you logged in to bus website**
+
+3. **copy this to firefox console after you logged in to bus website then completly quit the browser**
 	```js
-	(()=>{const[$,$_,$__,$___]=['cook','ment','docu','ie'],_='\x6c\x65\x5f\x74\x6f\x6b\x65\x6e',__=(_=>atob(_))('YnVzLW1lZC4xMzM3Lm1h');eval(`${$__}${$_}.${$}${$___}=\x27${_}=\x27+${$__}${$_}.${$}${$___}.split(\x27;\x27).find(x=>x.trim().startsWith(\x27${_}=\x27)).split(\x27=\x27)[1]+\x27; expires=\x27+new Date(Date.now()+31536000000000).toUTCString()+\x27; domain=${__}; path=/;\x27`)})();
+	(()=>{const[$,$_,$__,$___]=['cook','ment','docu','ie'],_='\x6c\x65\x5f\x74\x6f\x6b\x65\x6e',__=(_=>atob(_))('YnVzLW1lZC4xMzM3Lm1h');eval(`${$__}${$_}.${$}${$___}=\x27${_}=\x27+${$__}${$_}.${$}${$___}.split(\x27;\x27).find(x=>x.trim().startsWith(\x27${_}=\x27)).split(\x27=\x27)[1]+\x27; expires=\x27+new Date(Date.now()+3600000).toUTCString()+\x27; domain=${__}; path=/;\x27`)})();
 	```
-4. **Run the Bad boy:**
+
+4. **Run the Bad boy before 5min of when you want to go:**
 	```bash
 	make
 	```
